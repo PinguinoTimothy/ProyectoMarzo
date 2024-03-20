@@ -15,3 +15,15 @@ Acabe esto añadiendo unas animaciones básicas al jugador y los enemigos ademá
 
 Además también use itchi.io para subirlo y probar como funciona eso, al ser un juego de navegador se puede probar desde la misma pagina. Aunque va bastante lento en cuanto a fotogramas, entiendo que se necesita al fin y al cabo optimizar y yo como solo estaba probando un poco las capacidades del motor no hice nada de eso. 
 [Link al juego](https://pinguinotimothy.itch.io/juego-construct-prueba)
+
+
+## Sesión 20/03/2024
+
+***Empezando Con Phaser.***
+
+Phaser es un framework para hacer videojuegos en HTML5.
+
+La verdad es que, teniendo unas bases logicas de POO phaser y typescript no suponen demasiado reto, al menos no la parte basica que es lo que vi hasta ahora. Es todo bastante directo. El framework esta bastante bien documentado para las dudas que tuve y probablemente tendré.
+Ademas el usar mapas de teselas la creacion de niveles de plataformeo es muy simple ya que con unas cuantas lineas todo lo que se dibuja se le añade fisicas automaticamente. Para cosas mas complejas como plataformas en las que puedes entrar por debajo o asi será mas dificil pero de momento es todo bastante sencillo.
+
+Lo unico malo es que varios de los links del curso estaban caidos y estuve bastante perdido en algunas cosas porque funcionaban distinto y tuve que investigar alguna conversion, pero nada muy frustrante.
