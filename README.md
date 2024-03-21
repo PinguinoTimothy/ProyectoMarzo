@@ -27,3 +27,7 @@ La verdad es que, teniendo unas bases logicas de POO phaser y typescript no supo
 Ademas el usar mapas de teselas la creacion de niveles de plataformeo es muy simple ya que con unas cuantas lineas todo lo que se dibuja se le añade fisicas automaticamente. Para cosas mas complejas como plataformas en las que puedes entrar por debajo o asi será mas dificil pero de momento es todo bastante sencillo.
 
 Lo unico malo es que varios de los links del curso estaban caidos y estuve bastante perdido en algunas cosas porque funcionaban distinto y tuve que investigar alguna conversion, pero nada muy frustrante.
+
+## Sesión 21/03/2024
+
+Simplemente hice el examen de C# basico, que, la verdad es que de basico tenia poco.
