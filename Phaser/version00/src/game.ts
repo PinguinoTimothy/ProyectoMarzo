@@ -1,5 +1,5 @@
-import 'phaser';
-import Configuracion from './configuracion';
+import "phaser";
+import Configuracion from "./configuracion";
 
 export class Juego extends Phaser.Game{
     constructor(configuracion: Phaser.Types.Core.GameConfig){
@@ -7,6 +7,6 @@ export class Juego extends Phaser.Game{
     }
 }
 
-window.addEventListener('load', ()=>{
+window.addEventListener("load", ()=>{
     const juego = new Juego(Configuracion);
 });

@@ -31,3 +31,12 @@ Lo unico malo es que varios de los links del curso estaban caidos y estuve basta
 ## Sesión 21/03/2024
 
 Simplemente hice el examen de C# basico, que, la verdad es que de basico tenia poco.
+
+
+## Sesión 27/03/2024
+
+***Acabado Phaser.***
+
+Terminado el juego con Phaser que he de decir que me ha roto bastante la cabeza y he tardado mas de lo que esperaba con esto. Es todo muy repetitivo, simple, pero repetitivo, no creo que me interese en general trabajar con typescript en el futuro la verdad, no me ha acabado de convencer.
+
+Todos los assets estan directamente descargados del proyecto del curso de openwebinars, el juego es totalmente funcional tanto en dispotivos tactiles como con teclado y raton. Para ejecutarlo hay que usar el comando npm run dev en bash en la carpeta version00
