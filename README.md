@@ -40,3 +40,12 @@ Simplemente hice el examen de C# basico, que, la verdad es que de basico tenia p
 Terminado el juego con Phaser que he de decir que me ha roto bastante la cabeza y he tardado mas de lo que esperaba con esto. Es todo muy repetitivo, simple, pero repetitivo, no creo que me interese en general trabajar con typescript en el futuro la verdad, no me ha acabado de convencer.
 
 Todos los assets estan directamente descargados del proyecto del curso de openwebinars, el juego es totalmente funcional tanto en dispotivos tactiles como con teclado y raton. Para ejecutarlo hay que usar el comando npm run dev en bash en la carpeta version00
+
+
+## Sesión 07/04/2024
+
+***Empezando Unity.***
+
+Aqui empieza lo interesante de la carrera, al menos lo que mas me interesaba a mi, es cierto que los otros pueden llegar a estar bien pero para hacer un proyecto de verdad yo creo que unity es la opcion preferida.
+
+De momento de lo que llevo del curso no hay mucho para probar porque lo que he visto hasta ahora es mas que nada las distintas funciones de unity como herramienta, no hubo codigo, un par de lineas para enseñar como funciona la consola y para enseñar un par de cosas mas pero ya. Primero que nada tienes que hacerte a la herramienta y sus funciones antes de pasar a machacar codigo al final. Tiene un monton de cosas que facilitan en general el proceso de desarollo, tags, prefabs, componentes, etc. Segun vaya avanzando, probablemente, habra mas cosas que aun desconozco que haran que todo sea mas simple.
