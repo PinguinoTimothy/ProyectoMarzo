@@ -49,3 +49,9 @@ Todos los assets estan directamente descargados del proyecto del curso de openwe
 Aqui empieza lo interesante de la carrera, al menos lo que mas me interesaba a mi, es cierto que los otros pueden llegar a estar bien pero para hacer un proyecto de verdad yo creo que unity es la opcion preferida.
 
 De momento de lo que llevo del curso no hay mucho para probar porque lo que he visto hasta ahora es mas que nada las distintas funciones de unity como herramienta, no hubo codigo, un par de lineas para enseñar como funciona la consola y para enseñar un par de cosas mas pero ya. Primero que nada tienes que hacerte a la herramienta y sus funciones antes de pasar a machacar codigo al final. Tiene un monton de cosas que facilitan en general el proceso de desarollo, tags, prefabs, componentes, etc. Segun vaya avanzando, probablemente, habra mas cosas que aun desconozco que haran que todo sea mas simple.
+
+## Sesión 13/04/2024
+
+***Siguiendo Unity.***
+
+Acabado el primer curso de unity y nada muy tangible de momento, probe a construir un proyecto ejecutable en la carpeta buildPrueba para hacer la prueba a ver como iba, despues de sentar las bases ahora tocará ya empezar a hacer cosas mas jugables.

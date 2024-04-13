@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ianro\\PrimerProyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianro\\PrimerProyecto\\Assets\\Scipts\\MiComponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scipts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\MiComponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scipts\\MiComponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianro\\PrimerProyecto\\Assets\\Scipts\\EjemploConsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\EjemploConsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scipts\\EjemploConsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,28 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MiComponente.cs",
-              "DocumentMoniker": "C:\\Users\\ianro\\PrimerProyecto\\Assets\\Scipts\\MiComponente.cs",
-              "RelativeDocumentMoniker": "Assets\\Scipts\\MiComponente.cs",
-              "ToolTip": "C:\\Users\\ianro\\PrimerProyecto\\Assets\\Scipts\\MiComponente.cs",
-              "RelativeToolTip": "Assets\\Scipts\\MiComponente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scipts\\PlayerController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T10:09:12.438Z",
+              "WhenOpened": "2024-04-13T10:41:15.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MiComponente.cs",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\MiComponente.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\MiComponente.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\MiComponente.cs",
+              "RelativeToolTip": "Assets\\Scipts\\MiComponente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:09:12.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EjemploConsola.cs",
-              "DocumentMoniker": "C:\\Users\\ianro\\PrimerProyecto\\Assets\\Scipts\\EjemploConsola.cs",
+              "DocumentMoniker": "C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\EjemploConsola.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\EjemploConsola.cs",
-              "ToolTip": "C:\\Users\\ianro\\PrimerProyecto\\Assets\\Scipts\\EjemploConsola.cs",
+              "ToolTip": "C:\\Users\\ianro\\Documents\\GitHub\\ProyectoMarzo\\Unity\\PrimerProyecto\\Assets\\Scipts\\EjemploConsola.cs",
               "RelativeToolTip": "Assets\\Scipts\\EjemploConsola.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T09:30:06.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T09:30:06.56Z"
             }
           ]
         }
