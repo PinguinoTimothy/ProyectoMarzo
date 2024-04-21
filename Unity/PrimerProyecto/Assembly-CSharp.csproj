@@ -60,8 +60,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scipts\PlayerController.cs" />
+    <Compile Include="Assets\Scipts\Extensions.cs" />
+    <Compile Include="Assets\Scipts\Acceso_06_AddComponent.cs" />
+    <Compile Include="Assets\Scipts\Acceso_01_PublicProperties.cs" />
+    <Compile Include="Assets\Scipts\Acceso_02_FindObjectOfType.cs" />
+    <Compile Include="Assets\Scipts\MiPrimerComponente.cs" />
+    <Compile Include="Assets\Scipts\Acceso_03_GetComponent.cs" />
+    <Compile Include="Assets\Scipts\Enemy.cs" />
+    <Compile Include="Assets\Scipts\EnemyGizmos.cs" />
     <Compile Include="Assets\Scipts\MiComponente.cs" />
+    <Compile Include="Assets\Scipts\Acceso_04_GetComponentInChildren.cs" />
+    <Compile Include="Assets\Scipts\EnemyController.cs" />
+    <Compile Include="Assets\Scipts\LyfeCicle.cs" />
+    <Compile Include="Assets\Scipts\Acceso_05_GetComponentInParent.cs" />
     <Compile Include="Assets\Scipts\EjemploConsola.cs" />
+    <Compile Include="Assets\Scipts\PlayerGizmo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3D Gamekit - Environment Pack\Shaders\Rock.shader" />

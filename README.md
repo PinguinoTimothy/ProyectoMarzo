@@ -55,3 +55,10 @@ De momento de lo que llevo del curso no hay mucho para probar porque lo que he v
 ***Siguiendo Unity.***
 
 Acabado el primer curso de unity y nada muy tangible de momento, probe a construir un proyecto ejecutable en la carpeta buildPrueba para hacer la prueba a ver como iba, despues de sentar las bases ahora tocará ya empezar a hacer cosas mas jugables.
+
+## Sesión 21/04/2024
+
+***Siguiendo Unity.***
+
+Empezando con el curso de los componentes y las APIs, por ahora he aprendido a la gestion de los componentes, sus ciclos de vida y como crearlos en tiempo de ejecucion, es un tema bastante denso, tienen mucha cosa que gestionar y muchos metodos para relacionarse entre ellos, con sus hijos, padres, etc. Los ciclos de vida tambien tienen su cosilla, hay varios update y eso aun me confunde un poco.
+Ahora me tocará aprender todo el tema de la API que sera ya algo mas tangible y que se pueda probar mas alla de lo que hice el ultimo dia.
