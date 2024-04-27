@@ -62,3 +62,32 @@ Acabado el primer curso de unity y nada muy tangible de momento, probe a constru
 
 Empezando con el curso de los componentes y las APIs, por ahora he aprendido a la gestion de los componentes, sus ciclos de vida y como crearlos en tiempo de ejecucion, es un tema bastante denso, tienen mucha cosa que gestionar y muchos metodos para relacionarse entre ellos, con sus hijos, padres, etc. Los ciclos de vida tambien tienen su cosilla, hay varios update y eso aun me confunde un poco.
 Ahora me tocará aprender todo el tema de la API que sera ya algo mas tangible y que se pueda probar mas alla de lo que hice el ultimo dia.
+
+## Sesión 27/04/2024
+
+***Siguiendo Unity.***
+
+Empezando con la API, aprendi varias cosas:
+Clase Debug: No deja de ser lo tipico que hay en todos los sitios que sirve para imprimir mensajes de informacion, advertencia (Debug.LogWarning) y error (Debug.LogError).  
+
+Clase Input: Que sirve para manejar los distintos metodos de entrada, teclado, raton, joystick, pantallas tactiles, etc.
+
+Clase Screen: Sirve para recibir y cambiar distintas cosas relacionadas con como se ve el juego, resolucion, pantalla completa, la ventana de juego.
+
+Clase Camera: Se usa para, igual que Screen, recibir y cambiar las propiedades de la camara, por defecto hay una principal que es la "Main Camera" pero tambien puede haber varias, por ejemplo en juegos donde hay pantalla dividida y asi.
+
+Clase Time: Time sirve para saber como pasa el tiempo el juego, cuanto se tarda en hacer un frame, cuanto tiempo lleva x escena usandose, asi independientemente de los FPS (Frames-per-second) podemos hacer que el movimiento sea siempre el mismo, porque si no un juego que va a mas FPS iria mas rapido que otro a menos.
+
+Clase Transform: Se encarga de gestionar las posiciones, rotaciones y la escala de los distintos GameObjects, se divide en 3 principales, Translate, Rotate, LookAt:
+
+    -Translate: Sirve para el desplazamiento de los objetos.
+
+    -Rotate:Sirve para la rotacion de los objetos en funcion de un eje.
+
+    -LookAt: Sirve para modificar el eje que hace que el objeto mire a un sitio.
+
+Instanciar Objetos: Instanciar es para duplicar en tiempo de ejecucion objetos como escenas o prefabs que ya han sido creados antes, esto hay que hacerlo con cuidado porque consume muchos recursos y deja mucho trabajo al GarbageCollector.
+
+Destruir Objetos: Es para lo contrario que instanciar, por ejemplo cuando has matado a un enemigo, lo suyo es destruirlo para que no se quede en memoria y lleve a problemas de rendimiento.
+
+Clase Random: No deja de ser una clase que sirve para devolver valores aletorios.
