@@ -91,3 +91,11 @@ Instanciar Objetos: Instanciar es para duplicar en tiempo de ejecucion objetos c
 Destruir Objetos: Es para lo contrario que instanciar, por ejemplo cuando has matado a un enemigo, lo suyo es destruirlo para que no se quede en memoria y lleve a problemas de rendimiento.
 
 Clase Random: No deja de ser una clase que sirve para devolver valores aletorios.
+
+
+## Sesión 03/05/2024
+
+***Acabando Componentes y Api de Unity.***
+
+Esta ultima clase ha sido sobre las corrutinas que basicamente son metodos que pueden pararse a si mismos y mas tarde, por ejemplo cuando el jugador llegue a x sitio o haga y cosa o simplemente esperar z tiempo pues vuelve a ejecutarse donde se habian quedado. Lo normal es usarla para generar gameobject cada x tiempo. Las corrutinas usan la palabra 'yield' que es donde se indica a unity lo que tiene que pasar para seguir ejecutandose, por ejemplo
+'yield return new WaitForSeconds(1);' significa que la corrutina se parara durante 1 segundo antes de seguir ejecutandose.

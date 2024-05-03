@@ -60,34 +60,54 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scipts\PlayerController.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_06_Material.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_04_StartStopCoroutine_01_String.cs" />
     <Compile Include="Assets\Scipts\API_10_Random.cs" />
     <Compile Include="Assets\Scipts\Extensions.cs" />
     <Compile Include="Assets\Scipts\Acceso_06_AddComponent.cs" />
     <Compile Include="Assets\Scipts\Acceso_01_PublicProperties.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_02_IntroCorutina_Update.cs" />
     <Compile Include="Assets\Scipts\Acceso_02_FindObjectOfType.cs" />
     <Compile Include="Assets\Scipts\API_02_InputMouse.cs" />
     <Compile Include="Assets\Scipts\API_03_Screen.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_03_Yield_Example_04_WaitforSecondsRealtime.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_04_StartStopCoroutine_02_Coroutine.cs" />
     <Compile Include="Assets\Scipts\MiPrimerComponente.cs" />
     <Compile Include="Assets\Scipts\Acceso_03_GetComponent.cs" />
     <Compile Include="Assets\Scipts\API_06_Transform.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_05_Encadenar.cs" />
     <Compile Include="Assets\Scipts\API_01_Debug.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_02_IntroCorutina_Coroutine.cs" />
     <Compile Include="Assets\Scipts\API_08_Instantiate.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_04_StartStopCoroutine_03_IEnumerator.cs" />
     <Compile Include="Assets\Scipts\Enemy.cs" />
     <Compile Include="Assets\Scipts\API_05_Time.cs" />
     <Compile Include="Assets\Scipts\API_02_Input_Teclado.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_03_Yield_Example_05_WaitForFixedUpdate.cs" />
+    <Compile Include="Assets\Scipts\Coroutinas_01_Invoke.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_06_ScreenShakeV1.cs" />
     <Compile Include="Assets\Scipts\API_02_Input_Axis.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_05_Encadenar_paralelo.cs" />
     <Compile Include="Assets\Scipts\EnemyGizmos.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_03_Yield_Example_06_WaitUntil.cs" />
     <Compile Include="Assets\Scipts\MiComponente.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_03_Yield_Example_07_WaitWhile.cs" />
     <Compile Include="Assets\Scipts\Acceso_04_GetComponentInChildren.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_01_Invoke.cs" />
     <Compile Include="Assets\Scipts\API_09_Destroy.cs" />
     <Compile Include="Assets\Scipts\EnemyController.cs" />
     <Compile Include="Assets\Scipts\LyfeCicle.cs" />
     <Compile Include="Assets\Scipts\API_07_Activate.cs" />
     <Compile Include="Assets\Scipts\Acceso_05_GetComponentInParent.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_03_Yield_Example_03_WaitforSeconds.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_06_ScreenShakeV2.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_03_Yield_Example_02_null.cs" />
     <Compile Include="Assets\Scipts\API_02_Input_Mobile.cs" />
     <Compile Include="Assets\Scipts\EjemploConsola.cs" />
     <Compile Include="Assets\Scipts\API_04_Camera.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_03_Yield_Example_01_break.cs" />
     <Compile Include="Assets\Scipts\PlayerGizmo.cs" />
+    <Compile Include="Assets\Scipts\Corutinas\Coroutinas_04_StopAllCoroutines.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3D Gamekit - Environment Pack\Shaders\Rock.shader" />

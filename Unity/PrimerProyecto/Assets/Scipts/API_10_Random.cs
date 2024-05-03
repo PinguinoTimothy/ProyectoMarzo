@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
-w
+
 public class API_10_Random : MonoBehaviour
 {
     public GameObject[] prefabs;
